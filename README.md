@@ -1,1 +1,1 @@
-SERIOUSLY, WHO LET ME BE A DEVELOPER? WTF ME? WHAT IS A PIGEON COOKBOOK? WHERE WAS I GOING WITH THIS RIDICULOUS IDEA? WHY DIDN'T SOMEONE SAY "HEY, MAYBE DON'T DO THAT?"
+This is an invalid project that never got off the ground. Please ignore and move on while I continue to test with it. I promise there is nothing of note to see here.
